@@ -1,0 +1,14 @@
+C:\Users\ctrl-plus\source\repos\Caching\Caching\bin\Debug\netcoreapp2.2\Caching.deps.json
+C:\Users\ctrl-plus\source\repos\Caching\Caching\bin\Debug\netcoreapp2.2\Caching.runtimeconfig.json
+C:\Users\ctrl-plus\source\repos\Caching\Caching\bin\Debug\netcoreapp2.2\Caching.runtimeconfig.dev.json
+C:\Users\ctrl-plus\source\repos\Caching\Caching\bin\Debug\netcoreapp2.2\Caching.dll
+C:\Users\ctrl-plus\source\repos\Caching\Caching\bin\Debug\netcoreapp2.2\Caching.pdb
+C:\Users\ctrl-plus\source\repos\Caching\Caching\obj\Debug\netcoreapp2.2\Caching.csprojAssemblyReference.cache
+C:\Users\ctrl-plus\source\repos\Caching\Caching\obj\Debug\netcoreapp2.2\Caching.csproj.CoreCompileInputs.cache
+C:\Users\ctrl-plus\source\repos\Caching\Caching\obj\Debug\netcoreapp2.2\Caching.RazorAssemblyInfo.cache
+C:\Users\ctrl-plus\source\repos\Caching\Caching\obj\Debug\netcoreapp2.2\Caching.RazorAssemblyInfo.cs
+C:\Users\ctrl-plus\source\repos\Caching\Caching\obj\Debug\netcoreapp2.2\Caching.AssemblyInfoInputs.cache
+C:\Users\ctrl-plus\source\repos\Caching\Caching\obj\Debug\netcoreapp2.2\Caching.AssemblyInfo.cs
+C:\Users\ctrl-plus\source\repos\Caching\Caching\obj\Debug\netcoreapp2.2\Caching.RazorTargetAssemblyInfo.cache
+C:\Users\ctrl-plus\source\repos\Caching\Caching\obj\Debug\netcoreapp2.2\Caching.dll
+C:\Users\ctrl-plus\source\repos\Caching\Caching\obj\Debug\netcoreapp2.2\Caching.pdb
